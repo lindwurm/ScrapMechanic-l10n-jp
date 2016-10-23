@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyGUI type="Resource" version="1.1">
+	<Resource type="ResourceTrueTypeFont" name="ButtonCaptionLarge">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="ButtonCaptionSmall">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="10"/> <!-- 20 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="OptionsText">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 30 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="MessageCaptionLarge">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="MessageCaptionMedium">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="16"/> <!-- 34 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="MessageCaptionSmall">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="10"/> <!-- 21 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="WelcomeMessageText">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 30 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="Chat">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="9"/> <!-- 18 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="ToolTip">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="10"/> <!-- 21 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="InventoryLabel">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="18"/> <!-- 36 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="InventoryItemName">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="16"/> <!-- 34 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="InventoryWeight">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="10"/> <!-- 20 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="InventoryItemDescription">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="11"/> <!-- 21 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="ControllerTitle">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="LogicLabel">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="16"/> <!-- 34 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="LogicDescription">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="SensorSetting">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="SequenceControllerAngle">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="11"/> <!-- 21 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="SequenceControllerSpeed">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="16"/> <!-- 34 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="TimerControllerMilliseconds">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="32"/> <!-- 67 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="TimerControllerSeconds">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="42"/> <!-- 89 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="TimerControllerTicks">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="22"/> <!-- 46 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookTitle">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="58"/> <!-- 103 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookSubTitle">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 30 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookSubTitleItalic">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 30 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookPageCount">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookDescriptionLarge">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="11"/> <!-- 23 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookDescriptionSmall">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="10"/> <!-- 20 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookInstructionLarge">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 33 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookInstructionMedium">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 27 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookInstructionSmall">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="12"/> <!-- 23 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookLogicDescription">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="7"/> <!-- 13 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookFAQQuestion">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="13"/> <!-- 27 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="HandbookFAQAnswer">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 30 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="IETitle">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="32"/> <!-- 76 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="IESmallButton">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="13"/> <!-- 24 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="IELargeButton">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="18"/> <!-- 35 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="IEDescription">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="10"/> <!-- 19 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="IEPartsCount">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="14"/> <!-- 30 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="ImportCreationName">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="ImportUploading">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="16"/> <!-- 31 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="ExportCreationName">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="26"/> <!-- 49 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="GreyMessageBoxCaption">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="26"/> <!-- 49 px -->
+	</Resource>
+	<Resource type="ResourceTrueTypeFont" name="GreyMessageBoxButton">
+		<Property key="Source" value="Japanese.ttf"/>
+		<Property key="Size" value="20"/> <!-- 40 px -->
+	</Resource>
+</MyGUI>
