@@ -1,0 +1,1 @@
+# ScrapMechanic-l10n-jp
