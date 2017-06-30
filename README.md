@@ -1,19 +1,17 @@
 # ScrapMechanic-l10n-jp
 
-## ‚±‚ê‚Í‰½H
+## ã“ã‚Œã¯ä½•ï¼Ÿ
 
-- Scrap Mechanic‚Ì”ñŒö®“ú–{Œê–ó‚Å‚·
-- ‹@ŠB–|–óƒx[ƒX‚ªd—l‚Æ‚©Œ¾‚¢Ø‚ç‚ê‚Ä‚½‚Ì‚Å‚Ú‚¿‚Ú‚¿’¼‚µ‚½‚¢‚â‚Â
+- Scrap Mechanicã®éå…¬å¼æ—¥æœ¬èªè¨³ã®ã‚ˆã†ãªä½•ã‹
+- æ©Ÿæ¢°ç¿»è¨³ãƒ™ãƒ¼ã‚¹ãŒä»•æ§˜ã¨ã‹è¨€ã„åˆ‡ã‚‰ã‚Œã¦ãŸã®ã§ã¼ã¡ã¼ã¡ç›´ã—ãŸã„ã‚„ã¤
 
-## g‚¢•û
+## ä½¿ã„æ–¹
 
-- Scrap Mechanic ‚Å‘½Œ¾Œê‘Î‰‚Ì beta ƒeƒXƒ^[‚ÉQ‰Á
-- [ScrapMechanic-l10n-jp](https://github.com/lindwurm/ScrapMechanic-l10n-jp) ‚ÌuClone or Downloadv¨uDownload ZIPv‚©‚ç zip ‚ğƒ_ƒEƒ“ƒ[ƒh
+- [ScrapMechanic-l10n-jp](https://github.com/lindwurm/ScrapMechanic-l10n-jp) ã®ã€ŒClone or Downloadã€â†’ã€ŒDownload ZIPã€ã‹ã‚‰ zip ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰
 ![download](download.png)
-- zip “à‚ÌuDatavƒtƒHƒ‹ƒ_‚ğ `C:\Program Files (x86)\Steam\steamapps\common\Scrap Mechanic\Data` (•W€‚ÌƒCƒ“ƒXƒg[ƒ‹æ‚Ìê‡) ‚Éã‘‚«
-- Scrap Mechanic ‚ğ‹N“®AOPTION ¨ DISPLAY ¨ LANGUAGE ‚ÅuJapanesev‚ğ‘I‘ğ
+- zip å†…ã®ã€ŒDataã€ãƒ•ã‚©ãƒ«ãƒ€ã‚’ `C:\Program Files (x86)\Steam\steamapps\common\Scrap Mechanic\Data` (æ¨™æº–ã®ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«å…ˆã®å ´åˆ) ã«ä¸Šæ›¸ã
+- Scrap Mechanic ã‚’èµ·å‹•ã€OPTION â†’ DISPLAY â†’ LANGUAGE ã§ã€ŒJapaneseã€ã‚’é¸æŠ
 
-## –ß‚µ•û
+## æˆ»ã—æ–¹
 
-- beta ƒeƒXƒ^[‚ÌQ‰Á‚ğ’†~
-- ƒQ[ƒ€ƒLƒƒƒbƒVƒ…‚Ì®‡«‚ğŠm”F
+- ã‚²ãƒ¼ãƒ ã‚­ãƒ£ãƒƒã‚·ãƒ¥ã®æ•´åˆæ€§ã‚’ç¢ºèª
